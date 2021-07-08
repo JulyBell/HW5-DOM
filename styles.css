@@ -19,7 +19,7 @@ form{
 }
 
 input{
-	width:80%;
+	width:390px;
 	font-size: 20px;
 	margin-left:10%;
 	margin-right: 10%;
@@ -37,7 +37,7 @@ input#username{
 }
 
 button{
-	width: 80%;
+	width: 400px;
 	margin-left:10%;
 	margin-right: 10%;
 	margin-top: 10px;
